@@ -11,9 +11,9 @@ Cybersecurity-focused IT student looking for an internship where I can apply tec
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualization & lab environment set up       | <a href="https://google.com">Malware Analysis Lab</a>|
-|Windows security monitoring, log collection & analysis | <a href="https://google.com">Malware Analysis Lab</a>|
-| Safe malware execution                        | Malware Analysis Lab|
+| Virtualization & lab environment set up       | <a href="https://github.com/dhernandez6022/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>|
+|Windows security monitoring, log collection & analysis | <a href="https://github.com/dhernandez6022/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>|
+| Safe malware execution                        | <a href="https://github.com/dhernandez6022/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>|
 
 
 ## Tools
@@ -37,4 +37,4 @@ Cybersecurity-focused IT student looking for an internship where I can apply tec
 </div>
 
 ## Projects
-- Malware analysis Lab
+- Malware analysis Lab <a href="https://github.com/dhernandez6022/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>
