@@ -1,5 +1,5 @@
 # Hello, I'm Dolores
-<a href="https://linkedin.com/dolores-hernandez-jer2911"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dolores-hernandez-jer2911"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT student specializing in cybersecurity. I'm passionate about security operations, threat detection, and building hands-on projects to strengthen my technical skills. Here you'll find my learning journey and projects as I continue to grow in the cybersecurity field. 
 
@@ -37,4 +37,4 @@ Cybersecurity-focused IT student looking for an internship where I can apply tec
 </div>
 
 ## Projects
-- Malware analysis Lab <a href="https://github.com/dhernandez6022/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>
+- <a href="https://github.com/dhernandez6022/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>
